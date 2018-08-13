@@ -1,0 +1,51 @@
+,address,category,id_store,var1/var2
+0,100 high street,A,1,0.84
+1,382384 brixton road,A,2,2.17
+2,11 little streetonegate,A,3,0.19
+3,corner of pittville  albion street cheltenham,A,4,0.56
+4,16 high street unit 7 grants entertainment centre,A,5,1.01
+5,2224 the exchange way chelmsforoad,A,6,1.39
+6,11 bridge street,A,7,0.14
+7,8191 john bright street,A,8,1.7
+8,the citrus building 24 madeira road,A,9,15.5
+9,8 broad quay,A,10,0.9
+10,221  223 cheltenham road,A,11,1.43
+11,hodgehouse 114116 st marys street,A,12,1.97
+12,15 the waroadwick cathedral quarter,A,13,29.67
+13,16 high street ealing,A,14,0.7
+14,guildhall queen street,A,15,0.3
+15,1 north street guildforoad,B,16,inf
+16,50 kings street,B,17,0.98
+17,11 regents court,B,18,inf
+18,14 the light the headrow,B,19,0.12
+19,15 bathhouse lane  highcross,A,20,0.15
+20,5961 hanover street,B,21,1.42
+21,produce exchange,B,22,0.36
+22,4650 oldham street,B,23,0.68
+23,3335 oxforoad street,B,24,0.04
+24,5 mortimer square  the hub,A,25,1.36
+25,117 newgate street,B,26,7.08
+26,8 swan lane norwich,B,27,0.15
+27,the cornerhouse 12 trinity square,B,28,0.51
+28,12 friars entry magdalen street,B,29,0.5
+29,crystreetal house birley street,B,30,6.0
+30,3638 streetation road,C,31,0.01
+31,1 guildhall square,C,32,0.12
+32,2426 high street,C,33,2.2
+33,the scene cleveland place 269 high street walthamstow,C,34,0.24
+34,4547 marygate berwickupontweed td15 1ax,C,35,1.37
+35,112114 english street carlisle ca3 8nd,C,36,4.86
+36,3649 clifforoad road streetanley dh9 0xg,C,37,0.5
+37,5153 front street chesterlestreet dh3 3bh,C,38,2.56
+38,middleton grange shopping centre park road hartlepool ts24 7rz,C,39,0.16
+39,5052 newgate street bishop auckland dl14 7eq,C,40,0.87
+40,12 ivison lane workington ca14 3dy,C,41,2.39
+41,49 high street redcar ts10 3bz,C,42,0.82
+42,64 queensway billingham ts23 2np,C,43,2.33
+43,castlegate shopping centre high street stocktonontees  ts18 1af,C,44,1.69
+44,cornmill shopping centre cornmill centre darlington  dl1 1ls,C,45,4.08
+45,2627 baxtergate whitby  yo21 1bw,C,46,0.89
+46,167 high street northallerton  dl7 8jz,C,47,1.31
+47,2021 brunswick shopping centre scarborough  yo11 1ue,C,48,0.66
+48,107109 dalton road barrowinfurness  la14 1hz,D,49,1.32
+49,promenades shopping centre 31 the promenades shopping centre bridlington  yo15 2dx,D,50,1.02
